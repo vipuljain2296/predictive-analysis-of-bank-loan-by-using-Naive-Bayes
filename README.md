@@ -1,0 +1,1 @@
+# predictive-analysis-of-bank-loan-by-using-Naive-Bayes
